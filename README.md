@@ -1,5 +1,3 @@
-# nike-data-analysis
-
 # Nike Retail Partners (USA) – Product Financials Dashboard
 
 This repository contains an Excel dashboard built to analyze Nike’s retail product performance across U.S. regions, states, and cities. The dashboard uses pivot tables, slicers, and time series forecasting to provide dynamic and visual insights into Nike’s operational and financial data.
